@@ -1,0 +1,6 @@
+euclid_tiles/
+euclid_tiles_Y/
+euclid_tiles_H/
+*.fits
+.DS_Store
+.ipynb_checkpoints/
